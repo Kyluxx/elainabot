@@ -1,7 +1,6 @@
 database.json
 .env
 media/
-tmp/
 .config
 package-lock.json
 /tmp/
