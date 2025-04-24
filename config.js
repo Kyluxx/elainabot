@@ -53,27 +53,27 @@ import moment from 'moment-timezone'
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sig = 'https://instagram.com/verifiedhopeless' //Link Instagrammu
+global.sgh = 'https://github.com/Kyluxx' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/Ilk1oR2LbWd8t5fZtV5GVS'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/' //Hmmm, Ini boleh kalian isi terserah :v
+global.snh = 'https://kyluxx.wuaze.com/' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '-' //Nomor Danamu
-global.ppulsa = '-' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '081321616216' //Nomor Danamu
+global.ppulsa = '087883818502' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-' //Nomor Bot
-global.nomorown = '-' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '-' // Nama Owner
+global.nomorbot = '6281233792295' //Nomor Bot
+global.nomorown = '62895634600989' //Nomor Owner
+global.namebot = 'Livi BOT' //Nama Bot
+global.nameown = 'Kyluxx' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['-', 'Developer Owner', true] //Ganti jd nomormu sama Namamu
+  ['62895634600989', 'Kyluxx', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?] ex= [62123456789, "siapa kek", false]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,10 +96,10 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikeymu, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Elaina 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Elaina - Chan˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Elaina 𝙱𝙾𝚃'
-global.namedoc = 'Elaina`s Bot' //Main Name Menu Document
+global.wm = '                「 L i v i  𝙱𝙾𝚃 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Livi - Chan˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Livi 𝙱𝙾𝚃'
+global.namedoc = 'Livi`s Bot' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}\nWeton: ${weton}`
 global.bottime = `⫹⫺TIME: \nWIB: ${wktuwib}\nWITA: ${wktuwita}\nWIT: ${wktuwit}`
 global.titlebot = '🎋 ┊ Simple WhatsApp Bot'
@@ -156,10 +156,10 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.packname = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.packname = `☂︎\nL\ni\nv\ni\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.requestpack = 'Sticker Request By '
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 21 // The higher, The harder levelup
 
 /*============== EMOJI ==============*/
 global.rpg = {

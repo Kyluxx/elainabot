@@ -30,7 +30,6 @@ import {
 import yargs from 'yargs/yargs';
 import { hideBin } from 'yargs/helpers';
 const argv = yargs(hideBin(process.argv)).argv;
-
 import { spawn } from 'child_process'
 import lodash from 'lodash'
 import syntaxerror from 'syntax-error'
@@ -108,7 +107,7 @@ global.loadDatabase = async function loadDatabase() {
     global.db.chain = chain(db.data)
 }
 loadDatabase()
-const usePairingCode = !process.argv.includes('--use-pairing-code')
+const usePairingCode = true
 const useMobile = process.argv.includes('--mobile')
 
 var question = function(text) {
@@ -169,17 +168,17 @@ global.conn = makeWASocket(connectionOptions)
 conn.isInit = false
 
 if (usePairingCode && !conn.authState.creds.registered) {
-		const phoneNumber = await question('Please enter your phone number:\n')
+		const phoneNumber = "6281233792295"
 		const code = await conn.requestPairingCode(phoneNumber)
 		console.log(chalk.black(chalk.bgGreen(`Your Pairing Code : `)), chalk.black(chalk.white(code)))
 	}
 async function resetLimit() {
   try {
     let list = Object.entries(global.db.data.users);
-    let lim = 25; // Nilai limit default yang ingin di-reset
+    let lim = 48; // Nilai limit default yang ingin di-reset
 
     list.map(([user, data], i) => {
-      // Hanya reset limit jika limit saat ini <= 25
+      // Hanya reset limit jika limit saat ini <= 21
       if (data.limit <= lim) {
         data.limit = lim;
       }
