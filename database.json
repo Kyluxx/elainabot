@@ -1,0 +1,119 @@
+{
+  "users": {
+    "6285240852438@s.whatsapp.net": {
+      "exp": 14,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6282380874434@s.whatsapp.net": {
+      "exp": 20,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6285821724950@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6282289096831@s.whatsapp.net": {
+      "exp": 14,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6282252858068@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6288245052916@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "62895337904693@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6282112387714@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6281294337517@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "chats": {
+    "120363419321563971@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "premnsfw": false,
+      "antiToxic": false
+    },
+    "120363260351252843@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "premnsfw": false,
+      "antiToxic": false
+    }
+  },
+  "stats": {},
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6281233792295@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "anticall": true,
+      "restartDB": 0,
+      "restrict": false
+    }
+  }
+}
