@@ -3,7 +3,6 @@ database.json
 media/
 .config
 package-lock.json
-/tmp/
 
 .idea/
 *.sublime-workspace
